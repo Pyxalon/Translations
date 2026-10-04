@@ -1,5 +1,6 @@
 {
     "alphabet_type": "latin",
+    "default_lang": "en_US",
     "default_language_set": true,
     "fallback_default_language": "en_US",
     "fallback_languages": {
