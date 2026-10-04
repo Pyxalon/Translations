@@ -1,15 +1,11 @@
 {
-    "alphabet_type": "latin",
     "default_lang": "en_US",
-    "default_language_set": true,
-    "fallback_default_language": "en_US",
-    "fallback_languages": {
+    "translations": {
         "en_US": {
             "alphabet_type": "latin",
             "file": "en_US.json",
             "name": "English (US)"
         }
     },
-    "selected_language": "en_US",
-    "version": 128
+    "version": 129
 }
